@@ -1,8 +1,8 @@
 # Personal Task Manager
 
 Project Code: WST21-PM-2026-SF
-Student Name: [Your Name]
-Course & Year: [Course & Year]
+Student Name: [Renier Gabriel Alquizalas]
+Course & Year: [BSIT-2 Sec11]
 Database Used: SQLite (Laravel default local database)
 
 ## Features
@@ -32,3 +32,5 @@ This project is a simple Laravel-based personal task manager that allows users t
 
 ## Notes
 This project uses SQLite for local development and can be switched to MySQL or another Laravel-supported database by updating the `.env` file.
+
+## Repository
