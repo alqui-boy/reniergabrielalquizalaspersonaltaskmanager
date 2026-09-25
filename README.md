@@ -34,3 +34,4 @@ This project is a simple Laravel-based personal task manager that allows users t
 This project uses SQLite for local development and can be switched to MySQL or another Laravel-supported database by updating the `.env` file.
 
 ## Repository
+ Public GitHub Repository URL:https://github.com/alqui-boy/reniergabrielalquizalaspersonaltaskmanager.git
